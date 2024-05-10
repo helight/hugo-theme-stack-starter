@@ -1,5 +1,5 @@
-module github.com/CaiJimmy/hugo-theme-stack-starter
+module hugo-theme-stack-starter
 
 go 1.17
 
-require github.com/CaiJimmy/hugo-theme-stack/v3 v3.26.0 // indirect
+require github.com/helight/hugo-theme-stack v1.0.2 // indirect
